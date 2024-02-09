@@ -4,6 +4,7 @@ This repository contains a test automation project using Selenium, TestNG, and M
 
 ## Tech
 - Selenium
+- JAVA
 - TestNG
 - Log4j
 
@@ -30,6 +31,8 @@ mvn clean install
 ```
 Configuration
 Update the config.properties file in the "src/test/java/org/swaglabs/config/config.properties" with your SauceDemo.
+- baseurl = https://www.saucedemo.com
+- browser = You can use browser name (chrome, firefox, edge)
 
 ## License
 This project is licensed under the MIT License.
