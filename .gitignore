@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+target/
+/Swag_Labs/SwagLabsDemo/.idea/
 
 # Log file
 *.log
